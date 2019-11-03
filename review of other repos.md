@@ -1,4 +1,13 @@
-# Trying to get a feel for git repos, am reviewing some of the ones I starred:
+Trying to get a feel for git repos, am reviewing some of the ones I starred:
 
-## datascience-course
-
+### datascience-course
+- readme.md
+- folders for each hw
+ - folders have .md, .png (which shows up in the .md, a la html), .csv
+ - also
+  - .ipynb (Jup nb's, shown statically - I did this in my PyCon one)
+- Some of the .ipynb's have places for student to insert their code and output.
+This is kind of like what we did in MTCA.
+  
+ ### My PyCon repo
+ Has .md, .ipynb, .jpg, .png
