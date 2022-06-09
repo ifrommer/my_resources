@@ -21,7 +21,11 @@ https://docs.spyder-ide.org/current/faq.html
 
 https://medium.com/@apremgeorge/using-conda-python-environments-with-spyder-ide-and-jupyter-notebooks-in-windows-4e0a905aaac5
 
+### Code writing style, philosophy
+
 https://peps.python.org/pep-0483/
+
+https://12factor.net/
 
 ### Plotting
 https://www.python-graph-gallery.com/191-custom-axis-on-matplotlib-chart
