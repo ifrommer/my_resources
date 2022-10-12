@@ -4,4 +4,5 @@
   - methods - appear, move, disapper
   - attributes - position, speed, speed distribution parameters - there might be a few, (lane)
     - figuring out the speed distriution could be tricky
-    - also, how about car reacting to car in front, it'd need a behavior to slow down if it approached the next car, could get complicated
+    - also, how about car reacting to car in front, it'd need a behavior to slow down if it approached the next car, could get complicated - if you're within some distance, you slow down to match the speed of the car in front of you
+      - we want to log these deceleration events
